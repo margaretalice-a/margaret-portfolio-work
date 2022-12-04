@@ -21,3 +21,26 @@ h6 {
 p {
   margin: 0;
 }
+
+header {
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  text-align: center;
+  padding: 40px;
+}
+
+header h1 {
+  background-color: aquamarine;
+  font-size: 70px;
+  padding-left: 100px;
+  padding-right: 40px;
+}
+
+header a {
+  font-size: 40px;
+  padding: 10px;
+  color: aquamarine;
+}
