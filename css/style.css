@@ -69,3 +69,12 @@ header a {
 .hero-banner img {
   border-radius: 50%;
 }
+
+
+
+
+#contact a {
+  font-size: 40px;
+  padding: 40px;
+  color: navy;
+}
