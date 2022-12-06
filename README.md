@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-This website is to be used by prospective clients who wants to know more about Horiseon's marketing services. 
+This website is to be used by prospective employers who will like to see my portfolio. 
 
 ![Webpage layout screenshot]
 
