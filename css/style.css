@@ -51,6 +51,7 @@ header a {
   background: url("../images/02-hero-bg.jpg");
   background-size: cover;
   margin: 0 auto;
+  height: 400px;
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
@@ -64,7 +65,7 @@ header a {
 
 .hero-banner img {
   border-radius: 50%;
-  height: 50vh;
+  height: 60vh;
 }
 
 .page-wrapper {
