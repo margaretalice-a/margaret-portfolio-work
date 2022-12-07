@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a portfolio of my work to showcase my skills and talents to prospetive employers. It uses CSS flexbox, CSS grid and media queries to ensure that the webpage is responsive. There are external links to deployed applications/projects that I have created.
+This is a portfolio of my work to showcase my skills and talents to prospective employers. It uses CSS flexbox, CSS grid and media queries to create a responsive webpage. 
 
 Link: 
 
@@ -14,7 +14,9 @@ N/A
 
 This website is to be used by prospective employers who will like to see my portfolio. 
 
-![Webpage layout screenshot]
+![Webpage layout screenshot] (https://github.com/Margaret-Alice/margaret-portfolio-work/blob/main/images/screenshot.png)
+
+![Small screen layout screenshot] (https://github.com/Margaret-Alice/margaret-portfolio-work/blob/main/images/smallscreen.png)
 
 ## Credits
 
