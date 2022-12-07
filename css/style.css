@@ -1,3 +1,7 @@
+:root {
+  --light: aquamarine;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -31,7 +35,7 @@ header {
 }
 
 header h1 {
-  background-color: aquamarine;
+  background-color: var(--light);
   font-size: 30px;
   padding-left: 100px;
   padding-right: 40px;
@@ -40,7 +44,7 @@ header h1 {
 header a {
   font-size: 25px;
   padding: 10px;
-  color: aquamarine;
+  color: var(--light);
 }
 
 .hero-banner{
@@ -54,7 +58,7 @@ header a {
 }
 
 .hero-banner h2{
-  background-color: aquamarine;
+  background-color: var(--light);
   font-size: 30px;
 }
 
@@ -101,35 +105,35 @@ header a {
 #project-1 {
   grid-area: project-1;
   background-image: url("../images/02-run-buddy.jpg");
-  border: 5px solid aquamarine;
+  border: 5px solid var(--light);
   opacity:0.5;
 
 }
 #project-2 {
   grid-area: project-2;
   background-image: url("../images/02-portfolio-1.jpg");
-  border: 5px solid aquamarine;
+  border: 5px solid var(--light);
   opacity:0.5;
 }
 
 #project-3 {
   grid-area: project-3;
   background-image: url("../images/02-portfolio-2.jpg");
-  border: 5px solid aquamarine;
+  border: 5px solid var(--light);
   opacity:0.5;
 }
 
 #project-4 {
   grid-area: project-4;
   background-image: url("../images/02-portfolio-3.jpg");
-  border: 5px solid aquamarine;
+  border: 5px solid var(--light);
   opacity:0.5;
 }
 
 #project-5 {
   grid-area: project-5;
   background-image: url("../images/02-portfolio-4.jpg");
-  border: 5px solid aquamarine;
+  border: 5px solid var(--light);
   opacity:0.5;
 }
 
@@ -147,10 +151,7 @@ header a {
 }
 
 .heading {
-  background-color: aquamarine;
-  position: relative;
-  bottom: 40px;
-  z-index: 3;
+  background-color: var(--light);
   padding: 15px;
   height: 100px;
   width: 100px;
