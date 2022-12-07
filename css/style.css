@@ -42,7 +42,7 @@ header h1 {
 }
 
 header a {
-  font-size: 25px;
+  font-size: 20px;
   padding: 10px;
   color: var(--light);
 }
@@ -53,7 +53,7 @@ header a {
   margin: 0 auto;
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: flex-end;
   align-items: flex-end;
 }
 
@@ -64,29 +64,17 @@ header a {
 
 .hero-banner img {
   border-radius: 50%;
-  height: 60vh;
+  height: 50vh;
 }
-
 
 .page-wrapper {
   padding: 50px;
 }
 
 .page-section h2 {
-  font-size: 5em;
+  font-size: 3em;
   color: #46769B;
   border-bottom: 5px solid #46769B;
-}
-
-.contact a {
-  font-size: 20px;
-  color: black;
-}
-
-.contact-links {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
 }
 
 
@@ -157,4 +145,46 @@ header a {
   width: 100px;
   color: black;
   font-size: 18px;
+}
+
+.contact a {
+  font-size: 20px;
+  color: black;
+}
+
+.contact-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+
+@media screen and (max-width: 769px) {
+  header {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .hero-banner{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+  }
+
+  #workGrid {
+    grid-template-rows: 150px 150px 150px 150px 150px;
+    grid-template-columns: 1fr;
+    grid-template-areas:
+    "project-1"
+    "project-2"
+    "project-3"
+    "project-4"
+    "project-5"
+    ;
+  }
+  .contact-links {
+    display: flex;
+    flex-direction: column;
+}
 }
