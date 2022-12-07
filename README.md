@@ -14,7 +14,11 @@ N/A
 
 This website is to be used by prospective employers who will like to see my portfolio. 
 
+Webpage view:
+
 ![Webpage layout screenshot](https://github.com/Margaret-Alice/margaret-portfolio-work/blob/main/images/screenshot.png)
+
+Small screens (under 769px) view: 
 
 ![Small screen layout screenshot](https://github.com/Margaret-Alice/margaret-portfolio-work/blob/main/images/smallscreen.png)
 
