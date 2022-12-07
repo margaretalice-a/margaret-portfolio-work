@@ -138,6 +138,10 @@ header a {
   align-content: end;
 }
 
+.workGridArea a {
+  text-decoration: none;
+}
+
 .heading {
   background-color: var(--light);
   padding: 15px;

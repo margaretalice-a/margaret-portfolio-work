@@ -4,7 +4,7 @@
 
 This is a portfolio of my work to showcase my skills and talents to prospective employers. It uses CSS flexbox, CSS grid and media queries to create a responsive webpage. 
 
-Link: 
+Link: https://margaret-alice.github.io/margaret-portfolio-work/
 
 ## Installation
 
