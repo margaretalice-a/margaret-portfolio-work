@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a portfolio website that includes an about me, links of my work and ways to contact me. It uses CSS flexbox, CSS grid and media queries to create a responsive webpage. It was created to showcase my skills and talents to prospective employers.
+This is a portfolio website that includes an about me section, links of my work/projects and ways to contact me. It uses CSS flexbox, CSS grid and media queries to create a responsive webpage. It was created to showcase my skills and talents to prospective employers.
 
 Link: https://margaret-alice.github.io/margaret-portfolio-work/
 
