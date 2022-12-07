@@ -14,9 +14,9 @@ N/A
 
 This website is to be used by prospective employers who will like to see my portfolio. 
 
-![Webpage layout screenshot] ("../images/screenshot.png")
+![Webpage layout screenshot] (../images/screenshot.png)
 
-![Small screen layout screenshot] ("../images/smallscreen.png")
+![Small screen layout screenshot] (../images/smallscreen.png)
 
 ## Credits
 
