@@ -1,31 +1,16 @@
-# My Portfolio Website
+# Responsive Portfolio Website using CSS Grid & Flexbox 
 
 ## Description
 
-This is a portfolio website that includes an about me section, links of my work/projects and ways to contact me. It uses CSS flexbox, CSS grid and media queries to create a responsive webpage. It was created to showcase my skills and talents to prospective employers.
+This is a portfolio uses CSS flexbox, CSS grid and media queries to create a responsive webpage for any screen size. it also uses :hover elements to add interactivity to the page. 
 
-Link: https://margaret-alice.github.io/margaret-portfolio-work/
 
-## Installation
+Link: https://margaretalice-a.github.io/margaret-portfolio-work/
 
-N/A
-
-## Usage
-
-This website is to be used by prospective employers who will like to see my portfolio. 
-
-Webpage view:
+## Webpage view:
 
 ![Webpage layout screenshot](https://github.com/Margaret-Alice/margaret-portfolio-work/blob/main/images/screenshot.png)
 
-Small screens (under 769px) view: 
+## Mobile View 
 
 ![Small screen layout screenshot](https://github.com/Margaret-Alice/margaret-portfolio-work/blob/main/images/smallscreen.png)
-
-## Credits
-
-N/A
-
-## License
-
-Please refer to the LICENSE in the repo.
