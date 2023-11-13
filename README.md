@@ -2,10 +2,10 @@
 
 ## Description
 
-This is a portfolio uses CSS flexbox, CSS grid and media queries to create a responsive webpage for any screen size. it also uses :hover elements to add interactivity to the page. 
+This web portfolio project uses CSS grid, flexbox and media queries to create a responsive webpage. it also uses :hover elements to add interactivity to the page. 
 
 
-Link: https://margaretalice-a.github.io/margaret-portfolio-work/
+View: https://margaretalice-a.github.io/margaret-portfolio-work/
 
 ## Webpage view:
 
